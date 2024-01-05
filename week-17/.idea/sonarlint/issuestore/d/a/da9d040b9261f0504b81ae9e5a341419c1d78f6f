@@ -1,0 +1,9 @@
+
+y
+java:S1104"\Make GET_ALL_STUDENTS a static final constant or non-public and provide accessors if needed.(Срхн8ЦЪТ╠м1
+S
+java:S1444"6Make this "public static GET_ALL_STUDENTS" field final(Срхн8ДЪТ╠м1
+x
+java:S3008"[Rename this field "GET_ALL_STUDENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Срхн8ФЪТ╠м1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(▀≈КИ8ХЪТ╠м1
